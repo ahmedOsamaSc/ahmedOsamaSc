@@ -1,68 +1,67 @@
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=120&section=header&text=Ahmed%20Osama&fontSize=48&fontColor=ffffff&animation=fadeIn"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Freelancer+%7C+Company+Experience"
+  />
+</p>
+
 ---
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=120&section=header&text=Arif&fontSize=48&fontColor=ffffff&animation=fadeIn"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;Laravel+%7C+Vue+%7C+Nuxt+%7C+Cloud"
-  />
-</p>
-
 
 ## 🚀 About Me
 
-I’m a **passionate Full-Stack Developer** with strong expertise in **PHP, Laravel, JavaScript, Vue.js, and Nuxt.js**, along with solid experience in **server & cloud infrastructure**.
+I’m **Ahmed Osama**, a passionate **Front-End Developer** building modern, scalable, and high-performance web applications.
 
-* 🧠 Strategic problem solver with **20+ production-ready projects**
-* 🏗️ Architected **SaaS platforms, marketplaces, and enterprise systems**
-* 🤝 Team leader, mentor, and innovation-driven engineer
-* ⚡ Focused on **scalability, performance, and clean code**
-
----
-
-## 🏢 Currently
-
-* 🌱 Learning **React.js, Node.js, Next.js**
-* 👨‍💻 Portfolio: [**https://devarif.co**](https://devarif.co)
-* 💪 WakaTime: [**https://wakatime.com/@devboyarif**](https://wakatime.com/@devboyarif)
-* ⭐ LeetCode: [**https://leetcode.com/devboyarif**](https://leetcode.com/devboyarif)
-* 📫 Email: [**arif.fullstackdev@gmail.com**](mailto:arif.fullstackdev@gmail.com)
+- 💼 Working both in a **company environment** and as a **freelancer**
+- 🎯 Focused on clean UI, performance & best practices
+- ⚡ Specialized in React ecosystem
+- 🧠 Strong understanding of responsive design & API integration
+- 🤝 Experienced working with teams & handling client requirements
 
 ---
 
-## 🌐 Connect With Me
+## 💼 Experience
+
+- 🏢 Front-End Developer at a Company
+- 🌍 Freelance Front-End Developer (Remote Projects)
+- 🛠️ Delivered production-ready web applications
+- 📈 Built dashboards, landing pages, admin panels & business platforms
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
-HTML • CSS • Bootstrap • JavaScript • TypeScript • Vue.js • Nuxt.js • Alpine.js
+HTML • CSS • Sass • Tailwind • Bootstrap  
+JavaScript • TypeScript  
+React.js • Next.js  
 
-### Backend
+### 🔗 Integration & Tools
 
-PHP • Laravel • Livewire • REST APIs • Authentication • Payment Systems
-
-### Database & DevOps
-
-MySQL • Ubuntu • Git • DigitalOcean • AWS • CI/CD
-
-### Tools
-
-VS Code • Postman • GitHub • WakaTime
+REST APIs • Git • GitHub • VS Code  
+Figma • Responsive Design • Performance Optimization  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
+
+(تقدر تضيف GitHub Readme Stats هنا لو حابب)
+
+---
+
+## 📫 Contact
+
+📧 your-email@gmail.com  
+🌐 your-portfolio-link.com  
+💼 Available for freelance projects
 
 ---
 
 ### ✨ Philosophy
 
-> *“Great software is built at the intersection of clean code, strong architecture, and real business value.”*
-
-⭐ If you like my work, feel free to **follow**, **star**, or **collaborate**.
+> “Clean code + Great UI + Performance = Professional Front-End.”
